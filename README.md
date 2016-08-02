@@ -3,7 +3,7 @@
 
 ## Description
 
-<img src="https://github.com/ZeroFengLee/Dashboard/blob/master/Example/demo.gif" width="233" height="166">
+<img src="https://github.com/ZeroFengLee/Dashboard/blob/master/Example/demo.gif" width="467" height="332">
 
 
 ## How To Use
